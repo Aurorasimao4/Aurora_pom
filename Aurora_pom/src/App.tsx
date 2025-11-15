@@ -1,6 +1,6 @@
 //  e uma funcao com o nome em formato PascalCase
 
-function App()
+export function App()
 {
   console.log("Auroraaaaaa");
 
@@ -8,5 +8,4 @@ function App()
     </h1></>
 }
 
-export default App;
 
